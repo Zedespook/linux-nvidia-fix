@@ -16,7 +16,7 @@ sh tearing-fix.sh
 
 ### Or
 1. Add `tearing-fix.sh` to autostart
-2. Done.
+2. Restart
 
 # Why?
 - Fixes tearing with V-Sync in the desktop and not limiting game FPS
